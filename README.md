@@ -1,4 +1,4 @@
-# Apna college_demo
+# Apna college-demo
 This is my first Git Repository.
 <br>
-Author kartik
+Author - Kartik (Apna  College)
